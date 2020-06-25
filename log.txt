@@ -1,0 +1,34 @@
+No results for predicting: get|view|nameNo results for predicting: configureNo results for predicting: get|view|nameNo results for predicting: configureOriginal: get|name, predicted 1st: get|name
+No results for predicting: decode|rowNo results for predicting: visit|function|callNo results for predicting: get|window|functionsOriginal: get|name, predicted 1st: get|name
+No results for predicting: get|dataNo results for predicting: mapNo results for predicting: visit|function|callNo results for predicting: get|window|functionsNo results for predicting: check|can|select|from|tableNo results for predicting: check|can|select|from|viewNo results for predicting: check|can|create|view|with|select|from|tableNo results for predicting: check|can|create|view|with|select|from|viewNo results for predicting: get|original|sqlNo results for predicting: get|catalogNo results for predicting: get|schemaNo results for predicting: get|columnsOriginal: get|owner, predicted 1st: get|owner
+Original: to|string, predicted 1st: to|string
+Original: get|name, predicted 1st: get|name
+Original: get|type, predicted 1st: get|type
+		 predicted correctly at rank: 4
+No results for predicting: visit|function|callNo results for predicting: visit|function|callNo results for predicting: windowNo results for predicting: windowOriginal: get|type, predicted 1st: get|type
+No results for predicting: create|window|functionNo results for predicting: get|operandNo results for predicting: get|resultNo results for predicting: acceptOriginal: equals, predicted 1st: equals
+Original: hash|code, predicted 1st: hash|code
+No results for predicting: get|sourcesNo results for predicting: get|output|symbolsNo results for predicting: get|sourceNo results for predicting: get|partition|byNo results for predicting: get|order|byNo results for predicting: get|orderingsNo results for predicting: get|frameNo results for predicting: get|window|functionsNo results for predicting: get|signaturesNo results for predicting: get|hash|symbolNo results for predicting: get|pre|partitioned|inputsNo results for predicting: get|pre|sorted|order|prefixNo results for predicting: acceptOriginal: get|type, predicted 1st: get|type
+No results for predicting: get|start|typeNo results for predicting: get|start|valueNo results for predicting: get|end|typeNo results for predicting: get|end|valueNo results for predicting: sizeNo results for predicting: is|nullNo results for predicting: get|booleanNo results for predicting: get|longNo results for predicting: get|doubleNo results for predicting: get|sliceNo results for predicting: append|toNo results for predicting: positionOriginal: to|string, predicted 1st: to|string
+No results for predicting: is|recursiveNo results for predicting: get|queriesNo results for predicting: acceptOriginal: equals, predicted 1st: equals
+		 predicted correctly at rank: 2
+		 predicted correctly at rank: 3
+Original: get|type, predicted 1st: get|type
+No results for predicting: get|startNo results for predicting: get|endNo results for predicting: acceptOriginal: equals, predicted 1st: equals
+Original: hash|code, predicted 1st: hash|code
+		 predicted correctly at rank: 2
+No results for predicting: get|commentNo results for predicting: get|continue|labelNo results for predicting: get|end|labelNo results for predicting: conditionNo results for predicting: conditionNo results for predicting: bodyNo results for predicting: bodyNo results for predicting: acceptNo results for predicting: get|child|nodesNo results for predicting: acceptNo results for predicting: get|partition|byNo results for predicting: get|order|byNo results for predicting: get|frameNo results for predicting: acceptOriginal: equals, predicted 1st: equals
+Original: hash|code, predicted 1st: hash|code
+Original: to|string, predicted 1st: to|string
+No results for predicting: windowpaneNo results for predicting: windowpaneNo results for predicting: perplexeccentricNo results for predicting: create|window|functionNo results for predicting: assert|window|queryNo results for predicting: assert|window|query|with|nullsOriginal: get|name, predicted 1st: get|name
+No results for predicting: get|queryNo results for predicting: get|column|namesNo results for predicting: acceptOriginal: to|string, predicted 1st: to|string
+Original: hash|code, predicted 1st: hash|code
+Original: equals, predicted 1st: equals
+No results for predicting: get|original|sqlNo results for predicting: get|catalogNo results for predicting: aim|schemaNo results for predicting: getcolumnOriginal: get|owner, predicted 1st: get|owner
+Original: to|string, predicted 1st: to|string
+No results for predicting: get|nameOriginal: get|type, predicted 1st: get|type
+		 predicted correctly at rank: 4
+No results for predicting: finishNo results for predicting: print|rowsNo results for predicting: max|widthNo results for predicting: get|partition|endOriginal: has|next, predicted 1st: has|next
+No results for predicting: process|next|rowNo results for predicting: update|peer|groupNo results for predicting: update|frameNo results for predicting: empty|frameNo results for predicting: precedingNo results for predicting: followingNo results for predicting: get|start|valueNo results for predicting: get|end|valueNo results for predicting: get|frame|valueNo results for predicting: get|typesNo results for predicting: create|operator		 predicted correctly at rank: 8
+No results for predicting: duplicateNo results for predicting: get|operator|contextNo results for predicting: get|typesNo results for predicting: finishNo results for predicting: is|finishedNo results for predicting: needs|inputNo results for predicting: add|inputNo results for predicting: process|pending|inputNo results for predicting: update|pages|indexNo results for predicting: rearrange|pageNo results for predicting: get|outputNo results for predicting: extract|outputNo results for predicting: sort|pages|index|if|necessaryNo results for predicting: find|group|endNo results for predicting: find|group|endNo results for predicting: optimizeNo results for predicting: visit|windowNo results for predicting: visit|limitNo results for predicting: visit|filterNo results for predicting: rewrite|filter|sourceNo results for predicting: is|equal|rangeNo results for predicting: extract|upper|boundNo results for predicting: merge|limitNo results for predicting: convert|to|top|n|row|numberNo results for predicting: can|replace|with|row|numberNo results for predicting: can|optimize|window|functionNo results for predicting: is|row|number|signature[0.1625  0.175   0.18125 0.19375 0.19375 0.19375 0.19375 0.2     0.2
+ 0.2    ]
